@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="actividadObligatoria:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/actividadObligatoria_jar</output-path>
+    <root id="archive" name="actividadObligatoria.jar">
+      <element id="module-output" name="actividadObligatoria" />
+    </root>
+  </artifact>
+</component>
